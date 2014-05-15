@@ -6,6 +6,6 @@
   "version": "0.1.1",
   "git": "https://github.com/pahans/reactive-modal.git",
   "packages": {
-    "bootstrap-3": "3.1.1-1"
+    "bootstrap3-less": "0.1.9"
   }
 }
